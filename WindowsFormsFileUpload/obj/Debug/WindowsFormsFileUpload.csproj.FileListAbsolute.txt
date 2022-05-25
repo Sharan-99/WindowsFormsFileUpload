@@ -1,0 +1,10 @@
+C:\Users\2091199\source\repos\WindowsFormsFileUpload\WindowsFormsFileUpload\bin\Debug\WindowsFormsFileUpload.exe.config
+C:\Users\2091199\source\repos\WindowsFormsFileUpload\WindowsFormsFileUpload\bin\Debug\WindowsFormsFileUpload.exe
+C:\Users\2091199\source\repos\WindowsFormsFileUpload\WindowsFormsFileUpload\bin\Debug\WindowsFormsFileUpload.pdb
+C:\Users\2091199\source\repos\WindowsFormsFileUpload\WindowsFormsFileUpload\obj\Debug\WindowsFormsFileUpload.csproj.AssemblyReference.cache
+C:\Users\2091199\source\repos\WindowsFormsFileUpload\WindowsFormsFileUpload\obj\Debug\WindowsFormsFileUpload.Form1.resources
+C:\Users\2091199\source\repos\WindowsFormsFileUpload\WindowsFormsFileUpload\obj\Debug\WindowsFormsFileUpload.Properties.Resources.resources
+C:\Users\2091199\source\repos\WindowsFormsFileUpload\WindowsFormsFileUpload\obj\Debug\WindowsFormsFileUpload.csproj.GenerateResource.cache
+C:\Users\2091199\source\repos\WindowsFormsFileUpload\WindowsFormsFileUpload\obj\Debug\WindowsFormsFileUpload.csproj.CoreCompileInputs.cache
+C:\Users\2091199\source\repos\WindowsFormsFileUpload\WindowsFormsFileUpload\obj\Debug\WindowsFormsFileUpload.exe
+C:\Users\2091199\source\repos\WindowsFormsFileUpload\WindowsFormsFileUpload\obj\Debug\WindowsFormsFileUpload.pdb
